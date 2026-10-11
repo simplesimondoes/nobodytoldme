@@ -1,0 +1,20 @@
+{
+  "headers": [
+    {
+      "source": "/privacy.html",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow, nosnippet, noarchive" }]
+    },
+    {
+      "source": "/cookies.html",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow, nosnippet, noarchive" }]
+    },
+    {
+      "source": "/terms.html",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow, nosnippet, noarchive" }]
+    },
+    {
+      "source": "/impressum.html",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow, nosnippet, noarchive" }]
+    }
+  ]
+}
